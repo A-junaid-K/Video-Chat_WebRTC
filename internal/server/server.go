@@ -65,4 +65,6 @@ func dispatchKeyFrames() {
 			room.Peers.DispatchKeyFrames()
 		}
 	}
+
+	//continue the  process of making video
 }
